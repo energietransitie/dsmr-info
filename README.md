@@ -8,24 +8,13 @@ Technical information about smart meters in the Netherlands (in Dutch: [slimme m
 * [Smart electricity meters](#smart-electricity-meters) 
 * [Features](#features)
 * [Status](#status)
+* [Contributing](#contributing)
 * [License](#license)
 * [Credits](#credits)
 
 ## General info
 
 In this GitHub repository, we collect public information about various smart meters adhering to the Dutch Smart Meter Requirements (DSMR). While working on the research projects [Twomes](https://edu.nl/9fv8w) and [REDUCEDHEATCARB](https://edu.nl/gutuc) and while developing our open hardware [twomes-p1-gateway-hardware](https://github.com/energietransitie/twomes-p1-gateway-hardware) and the open software [twomes-p1-reader-firmware](https://github.com/energietransitie/twomes-p1-reader-firmware), we noticed that information that was needed to create hardware and software designs that would work on as many smart meter in the Netherlands as possible was scattered all over the internet. In this repository, we aim to bring all this information together, mostly in tabular form as .CSV files.
-
-If you have additional information, please feel free to send in corrections, updates and additions, preferably as a Pull Requests, or as an issue. via this repository. We're very interested in the meter code, but beware NOT to include your serial number. You may not want to share your smart meter serial number publicly: using this serial number, anyone who knows your zip code and street address number can register an account with an Overige Diensten Aanbieder (ODA) and get access to your smart  meter readings. 
-
-The meter code and serial number are typically found combined in the following places:
-
-- As plain text printed below the largest barcode on your smart meter enclosure
-- Encoded as the largest barcode on your smart meter enclosure
-- Encoded ain the OBIS code 0-0:42.0.0 or 0-0:96.1.1 in P1 telegrams, using a COSEM hexadecimal octet-string encoding, where each character is represented by two hexadecimal characters.
-
-We advise not to share the full barcode, full text or full contents of the OBIS code 0-0:42.0.0 or 0-0:96.1.1 of your P1 telegrams in issues or in Pull Request in this GitHub repository. We ARE very interested in receiving updates of smart meters not yet in the list, including the smart meter code, but you may want to blackline the largest barcode, and serial number. 
-
-If the text below the largest barcode starts with an E, then the following 4 digits are part of the meter code and the digits following contain the serial number. If the text below the largest barcode does NOT start with an E, then the first 4 characters (which may be letters and/or digits) are the meterc ode and the digits following contain the serial number.
 
 # DSMR versions
 
@@ -67,6 +56,20 @@ To-do:
 ## Status
 
 Dataset is: _work in progress_ 
+
+## Contributing
+
+If you have additional information, please feel free to send in corrections, updates and additions, preferably as a Pull Requests, or as an issue. via this repository. We're very interested in the meter code, but beware NOT to include your serial number. You may not want to share your smart meter serial number publicly: using this serial number, anyone who knows your zip code and street address number can register an account with an Overige Diensten Aanbieder (ODA) and get access to your smart  meter readings. 
+
+The meter code and serial number are typically found combined in the following places:
+
+- As plain text printed below the largest barcode on your smart meter enclosure
+- Encoded as the largest barcode on your smart meter enclosure
+- Encoded ain the OBIS code 0-0:42.0.0 or 0-0:96.1.1 in P1 telegrams, using a COSEM hexadecimal octet-string encoding, where each character is represented by two hexadecimal characters.
+
+We advise not to share the full barcode, full text or full contents of the OBIS code 0-0:42.0.0 or 0-0:96.1.1 of your P1 telegrams in issues or in Pull Request in this GitHub repository. We ARE very interested in receiving updates of smart meters not yet in the list, including the smart meter code, but you may want to blackline the largest barcode, and serial number. 
+
+If the text below the largest barcode starts with an E, then the following 4 digits are part of the meter code and the digits following contain the serial number. If the text below the largest barcode does NOT start with an E, then the first 4 characters (which may be letters and/or digits) are the meterc ode and the digits following contain the serial number.
 
 ## License
 
