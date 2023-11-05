@@ -1,4 +1,5 @@
 # DSMR info 
+
 Technical information about smart meters in the Netherlands (in Dutch: [slimme meter](https://nl.wikipedia.org/wiki/Slimme_meter)) adhering to the Dutch Smart Meter Requirements. 
 
 ## Table of contents
@@ -50,8 +51,12 @@ Currently ready:
 To-do:
 
 * add links to DSMR specification documents
+* find back overview of older DSMR specification documents
 * check whether hosting (older) DSMR specification documents on GitHub is ok
-* harvest more info from (photos in) [Liander smart meter manuals](https://www.liander.nl/mkb/meters/handleidingen/?field_meter_type_value[0]=2&field_smart_meter_value=1)
+* check info from (photos in) [Liander smart meter manuals](https://www.liander.nl/mkb/meters/handleidingen/?field_meter_type_value[0]=2&field_smart_meter_value=1)
+* check info from (photos in) [Stedin smart meter manuals](https://www.stedin.net/slimme-meter/overzicht-handleidingen)
+* check info from (photos in) [Coteq smart meter manuals](https://coteqnetbeheer.nl/meters-meterstanden/handleidingen)
+* check info in [Slimme meter overzicht](https://smartgateways.nl/overzicht-slimme-meters/)
 
 ## Status
 
@@ -88,4 +93,6 @@ We gratefully acknowlegde the efforts of the composers of the following smart me
 * [P1 poort slimme meter (hardware) on domoticx.com](https://domoticx.com/p1-poort-slimme-meter-hardware/)
 * [Enexis smart meter manuals](https://www.enexis.nl/meter/handleiding-slimme-meter)
 * [Liander smart meter manuals](https://www.liander.nl/mkb/meters/handleidingen/?field_meter_type_value[0]=2&field_smart_meter_value=1)
- 
+* [Stedin smart meter manuals](https://www.stedin.net/slimme-meter/overzicht-handleidingen)
+* [Coteq smart meter manuals](https://coteqnetbeheer.nl/meters-meterstanden/handleidingen)
+* [Slimme meter overzicht](https://smartgateways.nl/overzicht-slimme-meters/)
