@@ -61,7 +61,7 @@ Currently ready:
 
 * overview of DSMR versions;
 * initial overview of P1 port specifications;
-* initial overview of more than 65 smart meters currently deployed in the Netherlands;
+* initial overview of more than 85 smart meters compying with the DSMR standard in the Netherlands;
 
 To-do:
 
