@@ -7,7 +7,7 @@ Technical information about smart meters in the Netherlands (in Dutch: [slimme m
 - [DSMR versions: standards](#dsmr-versions-standards)
 - [P1 port specifications](#p1-port-specifications)
 - [Smart Electricity Meters](#smart-electricity-meters)
-- [Other related overviews](#other-related-overviews)
+- [Other related overviews and forums](#other-related-overviews-and-forums)
 - [Features](#features)
 - [Status](#status)
 - [Contributing](#contributing)
@@ -42,7 +42,7 @@ In this GitHub repository, we collect public information about various smart met
 
 [dsmr-e-meters.csv](dsmr-e-meters.csv) contains a table with an overview of all smart electricity meters deployed in the Netherlands complying various DSMR versions.
 
-## Other related overviews
+## Other related overviews and forums
 * Milieucentraal
   * [P1: overview of realtime energy managers](https://www.milieucentraal.nl/energie-besparen/inzicht-in-je-energierekening/overzicht-energieverbruiksmanagers/#realtime-verbruik)
   * [P4: overview of delayed feedback energy managers](https://www.milieucentraal.nl/energie-besparen/inzicht-in-je-energierekening/overzicht-energieverbruiksmanagers/#vertraagde-feedback)
@@ -54,14 +54,22 @@ In this GitHub repository, we collect public information about various smart met
     * [Stedin Zeeland f.k.a. Enduris](https://zeeland.stedin.net/slimme-meter/handleidingen)
   * [Coteq](https://coteqnetbeheer.nl/meters-meterstanden/handleidingen)
   * [RENDO](https://www.rendonetwerken.nl/thuis/meter-meterstanden/#info-handleidingen)
+* Forums
+  * [Home Automation Domotica Forum Europe, Smart Metering Forum](https://www.domoticaforum.eu/viewforum.php?f=71)
+  * [Gathering of Tweakers: Smarthome](https://gathering.tweakers.net/forum/list_topics/140)
+    * [Topic: Slimme meter uitlezen via P1-poort (in Dutch)](https://gathering.tweakers.net/forum/list_messages/1578510/146)
+  * [Gathering of Tweakers: Duurzame energie en installaties](https://gathering.tweakers.net/forum/list_topics/71)
+* Other countries
+  * Belgium
+    * [maakjemeterslim.be/aanbieder#de-p1-poort](https://maakjemeterslim.be/aanbieder#de-p1-poort)
  
 ## Features
 
-Currently ready:
+Rready:
 
 * overview of DSMR versions;
 * initial overview of P1 port specifications;
-* initial overview of more than 85 smart meters compying with the DSMR standard in the Netherlands;
+* initial overview of more than 90 smart meters compying with the DSMR standard in the Netherlands;
 
 To-do:
 
