@@ -75,7 +75,7 @@ Ready:
 To-do:
 
 * [find proof that any meter in NL actually supports DSMR 2.1, 2.2 or 2.31](https://github.com/energietransitie/dsmr-info/issues/1);
-* [get information about various meters for which we knly know a meter code](https://gathering.tweakers.net/forum/list_message/77112824#77112824).  
+* [get information about a few meters for which we currently only know brand and meter code, nothing more](https://gathering.tweakers.net/forum/list_message/77112824#77112824).  
 
 ## Status
 
