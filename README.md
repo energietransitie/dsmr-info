@@ -1,6 +1,6 @@
 # DSMR info <!-- omit in toc -->
 
-Technical information about smart meters in the Netherlands (in Dutch: [slimme meter](https://nl.wikipedia.org/wiki/Slimme_meter)) adhering to the Dutch Smart Meter Requirements. 
+Technical information about smart meters in the Netherlands (in Dutch: [slimme meter](https://nl.wikipedia.org/wiki/Slimme_meter)) adhering to the Dutch Smart Meter Requirements, more than 90 smart meter types adhering to one of 11 DSMR versions. 
 
 ## Table of contents  <!-- omit in toc -->
 - [General info](#general-info)
@@ -57,6 +57,7 @@ In this GitHub repository, we collect public information about various smart met
 * Forums
   * [Home Automation Domotica Forum Europe, Smart Metering Forum](https://www.domoticaforum.eu/viewforum.php?f=71)
   * [Gathering of Tweakers: Smarthome](https://gathering.tweakers.net/forum/list_topics/140)
+    * [Topic: DSMR Standaarden en Open Data over Nederlandse Slimme Meters (in Dutch)](https://gathering.tweakers.net/forum/list_messages/2216566)
     * [Topic: Slimme meter uitlezen via P1-poort (in Dutch)](https://gathering.tweakers.net/forum/list_messages/1578510/146)
   * [Gathering of Tweakers: Duurzame energie en installaties](https://gathering.tweakers.net/forum/list_topics/71)
 * Other countries
@@ -65,15 +66,16 @@ In this GitHub repository, we collect public information about various smart met
  
 ## Features
 
-Rready:
+Ready:
 
 * overview of DSMR versions;
 * initial overview of P1 port specifications;
-* initial overview of more than 90 smart meters compying with the DSMR standard in the Netherlands;
+* initial overview of more than 90 smart meters complying with the DSMR standard in the Netherlands.
 
 To-do:
 
-* check recent overviews of published meter codes 
+* [find proof that any meter in NL actually supports DSMR 2.1, 2.2 or 2.31](https://github.com/energietransitie/dsmr-info/issues/1);
+* [get information about various meters for which we knly know a meter code](https://gathering.tweakers.net/forum/list_message/77112824#77112824).  
 
 ## Status
 
