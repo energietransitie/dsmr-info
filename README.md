@@ -83,17 +83,17 @@ Dataset is: _work in progress_
 
 ## Contributing
 
-If you have additional information, please feel free to send in corrections, updates and additions, preferably as a Pull Requests, or as an issue. via this repository. We're very interested in the meter code, but beware NOT to include your serial number. You may not want to share your smart meter serial number publicly: using this serial number, anyone who knows your zip code and street address number can register an account with an Overige Diensten Aanbieder (ODA) and get access to your smart  meter readings. 
+If you have additional information, please feel free to send in corrections, updates and additions, preferably as a Pull Requests, or as an issue. via this repository. We're very interested in the meter code, but beware NOT to include your serial number. You may not want to share your smart meter serial number publicly, since using this serial number, anyone who knows your zip code and street address number can register an account with an Overige Diensten Aanbieder (ODA) and get access to your smart  meter readings. 
 
-The meter code and serial number are typically found combined in the following places:
+The meter code and serial number are typically combined in the equipment identifier, which can be found combined in the following places:
 
-- As plain text printed below the largest barcode on your smart meter enclosure
-- Encoded as the largest barcode on your smart meter enclosure
-- Encoded ain the OBIS code `0-0:42.0.0` or `0-0:96.1.1` in P1 telegrams, using a COSEM hexadecimal octet-string encoding, where each character is represented by two hexadecimal characters.
+1. encoded in the largest barcode on your smart meter enclosure;
+2. in the last part of the smart meter identifier plain text printed below the largest barcode on your smart meter enclosure;
+3. encoded in the OBIS code `0-0:42.0.0` or `0-0:96.1.1` in P1 telegrams, using a hex encoding (formally known as COSEM octet-string encoding), where each character is represented by two hexadecimal characters. To check, you can use offline browser plugins like [HexString Converter](https://chromewebstore.google.com/detail/hexstring-converter/libajdoapablnccbiakfbjjoofohelah?pli=1).
 
-We advise not to share the full barcode, full text or full contents of the OBIS code 0-0:42.0.0 or 0-0:96.1.1 of your P1 telegrams in issues or in Pull Request in this GitHub repository. We ARE very interested in receiving updates of smart meters not yet in the list, including the smart meter code, but you may want to blackline the largest barcode, and serial number. 
+We advise not to share the serial number or in Pull Request in this GitHub repository. However, please DO include the smart meter code. For example if your equipment identifier is   `E0044123456789012`. Then your P1 telegram will have a line reading `0-0:96.1.1(4530303434313233343536373839303132)`. Before you share it, please replace it by `0-0:96.1.1(4530303434***)`, so you actually only share the smart meter code `E0044`, which indicates the type of the smart meter, and not your serial number. 
 
-If the text below the largest barcode starts with an E, then the following 4 digits are part of the meter code and the digits following contain the serial number. If the text below the largest barcode does NOT start with an E, then the first 4 characters (which may be letters and/or digits) are the meterc ode and the digits following contain the serial number.
+If the text below the largest barcode starts with an E, then the following 4 digits are part of the meter code and the digits following contain the serial number. If the text below the largest barcode does NOT start with an E, then the first 4 characters (which may be letters and/or digits) are the meter code and the digits following contain the serial number.
 
 ## License
 
