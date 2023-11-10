@@ -13,7 +13,7 @@ Iskra,E0044,AM550-TD2.01,3,5,5.0,95881,,2016,2017,FALSE,,,,,,TRUE,,,,,,,
 Iskra,E0050,AM550-TD2.02,3,5,5.0,316,2017,2017,2017,TRUE,Stedin Zeeland (2024),,,,,,,TRUE,,,,,
 Iskra,E0053,AM550-ED1.04,1,5,5.0,,,,,FALSE,,CDMA,,,,,,,,,,,
 Iskra,E0054,AM550-TD2.04,3,5,5.0,,,,,FALSE,,,,,,,,,,,,,
-Iskra,E0066,AM550-TD2.12,,5,5.0,,,,,FALSE,,LTE,,,,TRUE,,,,,,,https://vimeo.com/528502848
+Iskra,E0066,AM550-TD2.12,3,5,5.0,,,,,FALSE,,LTE,,,,TRUE,,,,,,,https://vimeo.com/528502848
 Iskra,KA6G,ME382-D1A52 (GSM/GPRS),1,3,3.0,68184,2010,2010,2017,FALSE,,GPRS,,,TRUE,,,,,,,,
 Iskra,KA6M,ME371-D1A52,1,3,3.0,,2008,,,TRUE,Enexis (2022),,,,TRUE,,,,,,,https://www.netbeheernederland.nl/_contentediting/files/files/Iskra-1-fase-type-ME-371.pdf,
 Iskra,KA6N,ME372-D1A52,1,3,3.0,134,2008,2006,2013,TRUE,"Enexis (2022), Enexis (2022), Liander (2022), Liander (2022)",,,,TRUE,TRUE,,,,,,,
