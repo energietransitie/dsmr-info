@@ -60,9 +60,10 @@ In this GitHub repository, we collect public information about various smart met
     * [Topic: DSMR Standaarden en Open Data over Nederlandse Slimme Meters (in Dutch)](https://gathering.tweakers.net/forum/list_messages/2216566)
     * [Topic: Slimme meter uitlezen via P1-poort (in Dutch)](https://gathering.tweakers.net/forum/list_messages/1578510/146)
   * [Gathering of Tweakers: Duurzame energie en installaties](https://gathering.tweakers.net/forum/list_topics/71)
-* Other countries
-  * Belgium
-    * [maakjemeterslim.be/aanbieder#de-p1-poort](https://maakjemeterslim.be/aanbieder#de-p1-poort)
+* Other countries (Belgium, Denmark, Finland, Hungary, Lithuania, Luxemburg, Sweden, Switzerland)
+  * [maakjemeterslim.be](https://maakjemeterslim.be/aanbieder#de-p1-poort)
+  * [smartgateways.nl](https://smartgateways.nl/en/smart-meter-overview/)
+  * [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr)
  
 ## Features
 
