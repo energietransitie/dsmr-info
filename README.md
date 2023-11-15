@@ -102,7 +102,7 @@ This data is made available under the [CC BY 4.0](./LICENSE.md) by the [Research
 
 ## Credits
 
-Data collection was a joint effort of:
+Authors:
 
 * Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte) · Twitter [@HeNRGi](https://twitter.com/HeNRGi)
 * \<place future contributors here\> 
@@ -118,3 +118,8 @@ We gratefully acknowlegde the efforts of the authors of the following smart mete
 * [arduino-dsmr](https://github.com/matthijskooijman/arduino-dsmr), by [@matthijskooijman](https://github.com/matthijskooijman)
   * [DSMR standard documents](https://github.com/matthijskooijman/arduino-dsmr)
 * [Rejected electricity meters](https://www.rdi.nl/onderwerpen/elektriciteitsmeters-gasmeters-en-warmtemeters/documenten/publicaties/2018/juli/16/overzicht-afgekeurde-meters)
+
+We also acknowledge contributions of:
+
+* [DanTm](https://tweakers.net/gallery/58928/)
+* [_Proton](https://tweakers.net/gallery/430617/)
