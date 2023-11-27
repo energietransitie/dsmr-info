@@ -124,5 +124,5 @@ I am also grateful for contributions of:
 * [AirwinB](https://tweakers.net/gallery/259529)
 * [DanTm](https://tweakers.net/gallery/58928/)
 * [michels911](https://tweakers.net/gallery/406121)
-* * [_Proton](https://tweakers.net/gallery/430617/)
+* [_Proton](https://tweakers.net/gallery/430617/)
 
