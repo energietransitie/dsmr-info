@@ -70,8 +70,9 @@ In this GitHub repository, we collect public information about various smart met
 Ready:
 
 * overview of DSMR versions;
-* initial overview of P1 port specifications;
-* initial overview of more than 90 smart meters complying with the DSMR standard in the Netherlands.
+* specifications for the P1 port;
+* comprehensive details on over 90 DSMR-standard compliant smart meters in the Netherlands;
+* information on the measurement frequency of DSMR5 meters, distinguishing between second-by-second and 10-second interval measurements.
 
 To-do:
 
@@ -102,12 +103,11 @@ This data is made available under the [CC BY 4.0](./LICENSE.md) by the [Research
 
 ## Credits
 
-Authors:
+Author:
 
 * Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte) · Twitter [@HeNRGi](https://twitter.com/HeNRGi)
-* \<place future contributors here\> 
  
-We gratefully acknowlegde the efforts of the authors of the following smart meter resources:
+I gratefully acknowlegde the efforts of the authors of the following smart meter resources:
 
 * [Netbeheer Nederland dossier slimme meter: documenten ](https://www.netbeheernederland.nl/dossiers/slimme-meter-15/documenten)
 * [P1 poort slimme meter (hardware) on domoticx.com](https://domoticx.com/p1-poort-slimme-meter-hardware/)
@@ -119,8 +119,10 @@ We gratefully acknowlegde the efforts of the authors of the following smart mete
   * [DSMR standard documents](https://github.com/matthijskooijman/arduino-dsmr)
 * [Rejected electricity meters](https://www.rdi.nl/onderwerpen/elektriciteitsmeters-gasmeters-en-warmtemeters/documenten/publicaties/2018/juli/16/overzicht-afgekeurde-meters)
 
-We also acknowledge contributions of:
+I am also grateful for contributions of:
 
 * [AirwinB](https://tweakers.net/gallery/259529)
 * [DanTm](https://tweakers.net/gallery/58928/)
-* [_Proton](https://tweakers.net/gallery/430617/)
+* [michels911](https://tweakers.net/gallery/406121)
+* * [_Proton](https://tweakers.net/gallery/430617/)
+
