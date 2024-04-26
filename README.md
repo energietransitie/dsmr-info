@@ -76,7 +76,6 @@ Ready:
 
 To-do:
 
-* [find proof that any meter in NL actually supports DSMR 2.1, 2.2 or 2.31](https://github.com/energietransitie/dsmr-info/issues/1);
 * [get information about a few meters for which we currently only know brand and meter code, nothing more](https://gathering.tweakers.net/forum/list_message/77112824#77112824).  
 
 ## Status
@@ -121,8 +120,10 @@ I gratefully acknowlegde the efforts of the authors of the following smart meter
 
 I am also grateful for contributions of:
 
+* [@277r](https://github.com/277r)
 * [AirwinB](https://tweakers.net/gallery/259529)
 * [DanTm](https://tweakers.net/gallery/58928/)
+* [@GerwintenHave](https://github.com/GerwintenHave)
 * [martijn_van_eck](https://tweakers.net/gallery/638943/)
 * [michels911](https://tweakers.net/gallery/406121)
 * [_Proton](https://tweakers.net/gallery/430617/)
