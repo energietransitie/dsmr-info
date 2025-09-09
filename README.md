@@ -127,5 +127,6 @@ I am also grateful for contributions of:
 * [martijn_van_eck](https://tweakers.net/gallery/638943/)
 * [michels911](https://tweakers.net/gallery/406121)
 * [_Proton](https://tweakers.net/gallery/430617/)
+* [rduivenvoorde](https://github.com/rduivenvoorde)
 * [Scatman_II](https://tweakers.net/gallery/42833)
 
